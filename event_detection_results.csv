@@ -1,0 +1,282 @@
+Frame_Number,Timestamp_Seconds,Timestamp_MMSS,Detected_Event
+0,0.00,00:00,[]
+2,6.00,00:06,[]
+3,9.00,00:09,- Worker unsafe behavior
+4,12.00,00:12,[]
+5,15.00,00:15,[]
+6,18.00,00:18,[]
+7,21.00,00:21,[]
+8,24.00,00:24,[]
+9,27.00,00:27,[]
+10,30.00,00:30,[]
+11,33.00,00:33,[]
+12,36.00,00:36,[]
+13,39.00,00:39,[]
+14,42.00,00:42,[]
+15,45.00,00:45,- Bin overflowing or missing
+16,48.00,00:48,[]
+17,51.00,00:51,- None
+18,54.00,00:54,[]
+19,57.00,00:57,- Vehicle blocking path
+20,60.00,01:00,- Bin overflowing or missing
+21,63.00,01:03,- Bin overflowing or missing
+22,66.00,01:06,[]
+23,69.00,01:09,[]
+24,72.00,01:12,[]
+25,75.00,01:15,[]
+26,78.00,01:18,- Worker unsafe behavior
+27,81.00,01:21,[]
+28,84.00,01:24,- Bin overflowing or missing
+29,87.00,01:27,[]
+30,90.00,01:30,[]
+31,93.00,01:33,- Worker unsafe behavior
+32,96.00,01:36,[]
+33,99.00,01:39,- Bin overflowing or missing
+34,102.00,01:42,"- Worker unsafe behavior (operator with arm resting on door frame, possibly indicating relaxed posture near vehicle)"
+35,105.00,01:45,- Bin overflowing or missing
+36,108.00,01:48,[]
+37,111.00,01:51,[]
+38,114.00,01:54,"The video description does not indicate any of the listed relevant events clearly observed. Therefore, the returned list is:"
+38,114.00,01:54,- (no events)
+39,117.00,01:57,[]
+40,120.00,02:00,[]
+41,123.00,02:03,[]
+42,126.00,02:06,[]
+43,129.00,02:09,[]
+44,132.00,02:12,[]
+45,135.00,02:15,[]
+46,138.00,02:18,[]
+47,141.00,02:21,[]
+48,144.00,02:24,[]
+49,147.00,02:27,[]
+50,150.00,02:30,[]
+51,153.00,02:33,[]
+52,156.00,02:36,- None
+53,159.00,02:39,- Bin overflowing or missing
+53,159.00,02:39,- Worker unsafe behavior
+54,162.00,02:42,- Truck arm malfunction
+55,165.00,02:45,- Bin overflowing or missing
+56,168.00,02:48,- Bin overflowing or missing
+57,171.00,02:51,- Manual bin lifting
+58,174.00,02:54,[]
+59,177.00,02:57,[]
+60,180.00,03:00,[]
+61,183.00,03:03,[]
+62,186.00,03:06,- Manual bin lifting
+63,189.00,03:09,[]
+64,192.00,03:12,- Manual bin lifting
+65,195.00,03:15,[]
+66,198.00,03:18,[]
+67,201.00,03:21,- Vehicle blocking path
+68,204.00,03:24,[]
+69,207.00,03:27,- Vehicle blocking path
+70,210.00,03:30,- Vehicle blocking path
+72,216.00,03:36,[]
+73,219.00,03:39,- Vehicle blocking path
+74,222.00,03:42,- Vehicle blocking path
+75,225.00,03:45,- Manual bin lifting
+75,225.00,03:45,- Vehicle blocking path
+75,225.00,03:45,- Bin overflowing or missing
+76,228.00,03:48,[]
+77,231.00,03:51,- Vehicle blocking path
+78,234.00,03:54,- Vehicle blocking path
+79,237.00,03:57,- Vehicle blocking path
+80,240.00,04:00,- Bin overflowing or missing
+81,243.00,04:03,- Manual bin lifting
+82,246.00,04:06,- Bin overflowing or missing
+82,246.00,04:06,- Vehicle blocking path
+83,249.00,04:09,- Vehicle blocking path
+84,252.00,04:12,[]
+85,255.00,04:15,[]
+86,258.00,04:18,[]
+87,261.00,04:21,[]
+88,264.00,04:24,[]
+89,267.00,04:27,- Vehicle blocking path
+90,270.00,04:30,[]
+91,273.00,04:33,The video description does not indicate the occurrence of any relevant events from the provided list.
+92,276.00,04:36,[]
+93,279.00,04:39,- None
+94,282.00,04:42,- Worker unsafe behavior (due to exposed mechanical parts posing injury risks)
+95,285.00,04:45,- Worker unsafe behavior
+96,288.00,04:48,[]
+97,291.00,04:51,[]
+98,294.00,04:54,- Manual bin lifting
+99,297.00,04:57,- Worker unsafe behavior
+100,300.00,05:00,- Truck arm malfunction
+101,303.00,05:03,- Worker unsafe behavior
+102,306.00,05:06,- Worker unsafe behavior
+102,306.00,05:06,- Truck arm malfunction
+103,309.00,05:09,- Worker unsafe behavior
+104,312.00,05:12,- Truck arm malfunction
+105,315.00,05:15,- Truck arm malfunction
+106,318.00,05:18,- Worker unsafe behavior
+107,321.00,05:21,- Truck arm malfunction
+108,324.00,05:24,- Worker unsafe behavior
+109,327.00,05:27,[]
+110,330.00,05:30,- Bin overflowing or missing
+111,333.00,05:33,- Worker unsafe behavior
+112,336.00,05:36,- None
+113,339.00,05:39,- Bin overflowing or missing
+114,342.00,05:42,- Manual bin lifting
+114,342.00,05:42,- Worker unsafe behavior
+115,345.00,05:45,- Truck arm malfunction
+116,348.00,05:48,- Worker unsafe behavior
+117,351.00,05:51,- Manual bin lifting
+118,354.00,05:54,- Bin overflowing or missing
+119,357.00,05:57,- Truck arm malfunction
+120,360.00,06:00,- Vehicle blocking path
+120,360.00,06:00,- Worker unsafe behavior
+121,363.00,06:03,[]
+122,366.00,06:06,- Worker unsafe behavior
+123,369.00,06:09,- Truck arm malfunction
+124,372.00,06:12,- Bin overflowing or missing
+124,372.00,06:12,- Worker unsafe behavior
+125,375.00,06:15,- Bin overflowing or missing
+126,378.00,06:18,[]
+127,381.00,06:21,- Truck arm malfunction
+128,384.00,06:24,- Worker unsafe behavior
+129,387.00,06:27,- Truck arm malfunction
+130,390.00,06:30,- Bin overflowing or missing
+131,393.00,06:33,- Vehicle blocking path
+132,396.00,06:36,- Worker unsafe behavior
+133,399.00,06:39,- Worker unsafe behavior
+134,402.00,06:42,- Bin overflowing or missing
+135,405.00,06:45,- Vehicle blocking path
+136,408.00,06:48,[]
+137,411.00,06:51,[]
+138,414.00,06:54,- Vehicle blocking path
+139,417.00,06:57,[]
+140,420.00,07:00,- Bin overflowing or missing
+141,423.00,07:03,- Bin overflowing or missing
+142,426.00,07:06,- Manual bin lifting
+143,429.00,07:09,- Manual bin lifting
+144,432.00,07:12,- None
+145,435.00,07:15,- Vehicle blocking path
+146,438.00,07:18,- None
+147,441.00,07:21,- Manual bin lifting
+148,444.00,07:24,[]
+149,447.00,07:27,[]
+150,450.00,07:30,- Vehicle blocking path
+151,453.00,07:33,- None (no relevant events clearly observed)
+152,456.00,07:36,[]
+154,462.00,07:42,- None
+155,465.00,07:45,[]
+156,468.00,07:48,[]
+157,471.00,07:51,- Vehicle blocking path
+158,474.00,07:54,[]
+159,477.00,07:57,[]
+160,480.00,08:00,[]
+161,483.00,08:03,- Bin overflowing or missing
+162,486.00,08:06,- Vehicle blocking path
+163,489.00,08:09,- None
+164,492.00,08:12,[]
+165,495.00,08:15,[]
+166,498.00,08:18,- None
+167,501.00,08:21,[]
+168,504.00,08:24,[]
+169,507.00,08:27,The following relevant events are clearly observed in the video description:
+169,507.00,08:27,- None
+170,510.00,08:30,- Bin overflowing or missing
+170,510.00,08:30,- Worker unsafe behavior
+171,513.00,08:33,[]
+172,516.00,08:36,- Manual bin lifting
+173,519.00,08:39,- Manual bin lifting
+173,519.00,08:39,- Vehicle blocking path
+174,522.00,08:42,- Vehicle blocking path
+175,525.00,08:45,[]
+176,528.00,08:48,- Worker unsafe behavior
+177,531.00,08:51,[]
+178,534.00,08:54,- Vehicle blocking path
+179,537.00,08:57,[]
+180,540.00,09:00,[]
+181,543.00,09:03,- Worker unsafe behavior
+182,546.00,09:06,[]
+183,549.00,09:09,- None
+184,552.00,09:12,- Manual bin lifting
+185,555.00,09:15,- Bin overflowing or missing
+186,558.00,09:18,[]
+187,561.00,09:21,- Bin overflowing or missing
+188,564.00,09:24,- Vehicle blocking path
+189,567.00,09:27,[]
+190,570.00,09:30,[]
+191,573.00,09:33,[]
+192,576.00,09:36,- Vehicle blocking path
+193,579.00,09:39,[]
+194,582.00,09:42,[]
+195,585.00,09:45,[]
+196,588.00,09:48,[]
+197,591.00,09:51,[]
+198,594.00,09:54,[]
+199,597.00,09:57,- Bin overflowing or missing
+200,600.00,10:00,- Bin overflowing or missing (indicated by the warning yellow tag on one bin)
+201,603.00,10:03,- Bin overflowing or missing
+202,606.00,10:06,- Truck arm malfunction
+203,609.00,10:09,[]
+204,612.00,10:12,[]
+205,615.00,10:15,The relevant events clearly observed are:
+205,615.00,10:15,- None
+206,618.00,10:18,[]
+207,621.00,10:21,- Truck arm malfunction
+208,624.00,10:24,- Truck arm malfunction
+209,627.00,10:27,- Worker unsafe behavior
+210,630.00,10:30,[]
+211,633.00,10:33,[]
+212,636.00,10:36,[]
+213,639.00,10:39,- None
+214,642.00,10:42,[]
+215,645.00,10:45,[]
+216,648.00,10:48,[]
+218,654.00,10:54,[]
+219,657.00,10:57,[]
+220,660.00,11:00,[]
+221,663.00,11:03,- Bin overflowing or missing
+222,666.00,11:06,- Vehicle blocking path
+223,669.00,11:09,- None
+224,672.00,11:12,[]
+225,675.00,11:15,- Vehicle blocking path
+227,681.00,11:21,[]
+228,684.00,11:24,[]
+229,687.00,11:27,[]
+230,690.00,11:30,- Manual bin lifting
+231,693.00,11:33,[]
+232,696.00,11:36,[]
+233,699.00,11:39,The video description does not indicate any of the listed events occurring.
+233,699.00,11:39,Relevant events: None
+234,702.00,11:42,- Manual bin lifting
+235,705.00,11:45,[]
+236,708.00,11:48,- Worker unsafe behavior
+237,711.00,11:51,- None
+238,714.00,11:54,[]
+239,717.00,11:57,[]
+240,720.00,12:00,[]
+241,723.00,12:03,[]
+242,726.00,12:06,[]
+243,729.00,12:09,[]
+244,732.00,12:12,[]
+245,735.00,12:15,- Manual bin lifting
+246,738.00,12:18,"The video description does not indicate any of the listed relevant events occurring. No manual bin lifting, vehicle blocking path, bin overflowing or missing, near collision, truck arm malfunction, or worker unsafe behavior is observed."
+246,738.00,12:18,**Relevant events:** None
+247,741.00,12:21,[]
+248,744.00,12:24,- Manual bin lifting
+249,747.00,12:27,- Manual bin lifting
+250,750.00,12:30,[]
+252,756.00,12:36,[]
+253,759.00,12:39,[]
+254,762.00,12:42,[]
+255,765.00,12:45,[]
+256,768.00,12:48,[]
+257,771.00,12:51,[]
+258,774.00,12:54,- None observed
+259,777.00,12:57,[]
+260,780.00,13:00,- Manual bin lifting
+261,783.00,13:03,[]
+262,786.00,13:06,[]
+263,789.00,13:09,[]
+264,792.00,13:12,[]
+265,795.00,13:15,[]
+266,798.00,13:18,[]
+267,801.00,13:21,[]
+268,804.00,13:24,[]
+269,807.00,13:27,[]
+270,810.00,13:30,[]
+271,813.00,13:33,[]
